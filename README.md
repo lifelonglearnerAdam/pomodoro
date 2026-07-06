@@ -17,7 +17,7 @@
 
 👉 [lifelonglearneradam.github.io/pomodoro](https://lifelonglearneradam.github.io/pomodoro/)
 
-或者下载 `pomodoro.html`，用浏览器打开即可，无需安装任何依赖。
+或者下载 `index.html`，用浏览器打开即可，无需安装任何依赖。
 
 ## 🛠 技术栈
 
